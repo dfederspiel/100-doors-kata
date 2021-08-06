@@ -1,0 +1,19 @@
+{
+  "name": "100doors",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start":"nodemon index.js",
+    "test": "jest --coverage --watchAll"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.0.1"
+  },
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "jpeg-js": "^0.4.0"
+  }
+}

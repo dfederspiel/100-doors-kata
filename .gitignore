@@ -1,0 +1,10 @@
+node_modules
+coverage
+.vscode
+
+*-doors.jpg
+!100x100-doors.jpg
+!1280x1280-doors.jpg
+!1000x2000-doors.jpg
+!1280x300-doors.jpg
+!1920x1080-doors.jpg
