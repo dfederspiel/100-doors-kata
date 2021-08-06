@@ -1,5 +1,5 @@
 # 100 Doors Kata
-![example workflow](https://github.com/dfederspiel/100-doors-kata/actions/workflows/main.yml/badge.svg)
+![main workflow](https://github.com/dfederspiel/100-doors-kata/actions/workflows/main.yml/badge.svg)
 
 ![1280x300 image](/1280x300-doors.jpg)  
 Ever tried the [100 doors kata](https://rosettacode.org/wiki/100_doors)?  It's a fun little exercise for teaching [TDD](https://en.wikipedia.org/wiki/Test-driven_development).
